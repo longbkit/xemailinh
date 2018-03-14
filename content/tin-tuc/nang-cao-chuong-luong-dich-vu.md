@@ -1,14 +1,9 @@
-+++
-title = "Mai Linh đặt mục tiêu nâng cao chất lượng dịch vụ"
-date = 2018-03-11T00:50:07+07:00
-draft = false
-tags = []
-categories = []
-description = ""
-menu = ""
-banner = ""
-images = []
-+++
+---
+title: Mai Linh đặt mục tiêu nâng cao chất lượng dịch vụ
+date: 2018-03-10T17:50:07.000Z
+thumbnail: /images/uploads/banner-3.jpg
+rating: '5'
+---
 
 Trong lĩnh vực vận tải hành khách trên tuyến cố định, giờ đây khách hàng dễ dàng nhận diện thương hiệu Mai Linh Express. Đây cũng là ngành mũi nhọn trong chiến lược phát triển đa ngành nghề của Tập đoàn Mai Linh.
 
