@@ -6,3 +6,7 @@ thumbnail: /images/uploads/banner-3.jpg
 rating: '5'
 ---
 Hãng xe Mai Linh chính thức ký kết hợp đồng với VXR.
+
+![](/images/uploads/banner-3.jpg)
+
+Hoành tráng quá xá
