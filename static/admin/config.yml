@@ -8,14 +8,14 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   - name: "tin-tuc" # Used in routes, e.g., /admin/collections/blog
-    label: "Tin tức" # Used in the UI
-    folder: "tin-tuc" # The path to the folder where the documents are stored
+    label: "Tin tức mới" # Used in the UI
+    folder: "content/tin-tuc" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tiêu đề", name: "title", widget: "string"}
+      - {label: "Ngày đăng", name: "date", widget: "datetime"}
+      - {label: "Hình ảnh", name: "thumbnail", widget: "image"}
+      - {label: "Đánh giá (thang điểm 1-5)", name: "rating", widget: "number"}
+      - {label: "Nội dung", name: "body", widget: "markdown"}
