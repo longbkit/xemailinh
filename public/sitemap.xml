@@ -3,28 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/tin-tuc/nang-cao-chuong-luong-dich-vu/</loc>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/tin-tuc/nang-cao-chuong-luong-dich-vu/</loc>
     <lastmod>2018-03-11T00:50:07+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/lien-he/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tin-tuc/</loc>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/tin-tuc/</loc>
     <lastmod>2018-03-11T00:50:07+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://wizardly-noether-ef9a5f.netlify.com/</loc>
     <lastmod>2018-03-11T00:50:07+07:00</lastmod>
     <priority>0</priority>
   </url>

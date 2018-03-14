@@ -24,6 +24,9 @@
 
                     <div class="col-md-9" id="blog-post">
 
+{{ $posts := .Paginate (where .Data.Pages "Type" "lien-he")}}                        
+{{ range first 1 $posts.Pages }}
+                
                         <div id="post-content">
                           {{ .Content }}
                           <div class="flex-ns mb3">
@@ -36,6 +39,7 @@
 							</div>
 
                         </div>
+{{ end }}
 
                     </div>
                     <!-- /#blog-post -->
